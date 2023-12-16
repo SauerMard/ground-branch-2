@@ -1,0 +1,757 @@
+<HumanIdentities>
+	<!-- CIA Team Leader -->
+	<!-- Duty Portraits -->
+	<Portrait tex="data/textures/portraits/ranger1.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger2.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger3.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger4.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger5.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger6.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger7.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger8.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger9.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger10.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger11.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger12.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger16.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger17.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger18.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger19.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger20.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger21.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger22.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger23.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger24.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger25.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger27.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger28.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger29.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger30.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger31.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger32.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger33.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger34.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger35.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger36.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger37.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger38.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger40.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger41.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger42.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger43.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger44.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger45.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger46.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger47.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger48.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger49.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger50.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger51.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger52.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger53.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger54.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger55.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger56.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger57.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger58.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+
+	<!-- Office Portraits -->
+	<Portrait tex="data/textures/portraits/cia1.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia2.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia3.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia4.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia5.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia6.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia7.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia8.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia9.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia10.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia11.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia12.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia13.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia14.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia15.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia16.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia17.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia18.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia19.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia20.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia21.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia22.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia23.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia24.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia25.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia26.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia27.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia28.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia29.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia30.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia31.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia32.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia33.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia34.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia35.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia36.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia37.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia38.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia39.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia40.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia41.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia42.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia43.dds" unit="GB" class="gb_cia_lead" gender="0"/>
+
+	<!-- CIA Breacher -->
+	<!-- Duty Portraits -->
+	<Portrait tex="data/textures/portraits/ranger1.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger2.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger3.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger4.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger5.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger6.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger7.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger8.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger9.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger10.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger11.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger12.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger16.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger17.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger18.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger19.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger20.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger21.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger22.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger23.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger24.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger25.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger27.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger28.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger29.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger30.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger31.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger32.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger33.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger34.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger35.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger36.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger37.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger38.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger40.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger41.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger42.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger43.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger44.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger45.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger46.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger47.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger48.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger49.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger50.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger51.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger52.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger53.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger54.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger55.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger56.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger57.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger58.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+
+	<!-- Office Portraits -->
+	<Portrait tex="data/textures/portraits/cia1.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia2.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia3.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia4.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia5.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia6.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia7.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia8.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia9.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia10.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia11.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia12.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia13.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia14.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia15.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia16.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia17.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia18.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia19.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia20.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia21.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia22.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia23.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia24.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia25.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia26.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia27.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia28.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia29.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia30.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia31.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia32.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia33.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia34.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia35.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia36.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia37.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia38.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia39.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia40.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia41.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia42.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia43.dds" unit="GB" class="gb_cia_breach" gender="0"/>
+	<!-- CIA Weapons Specialist -->
+	<!-- Duty Portraits -->
+	<Portrait tex="data/textures/portraits/ranger1.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger2.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger3.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger4.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger5.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger6.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger7.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger8.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger9.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger10.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger11.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger12.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger16.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger17.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger18.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger19.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger20.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger21.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger22.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger23.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger24.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger25.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger27.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger28.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger29.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger30.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger31.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger32.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger33.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger34.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger35.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger36.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger37.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger38.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger40.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger41.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger42.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger43.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger44.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger45.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger46.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger47.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger48.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger49.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger50.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger51.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger52.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger53.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger54.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger55.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger56.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger57.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/ranger58.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+
+	<!-- Office Portraits -->
+	<Portrait tex="data/textures/portraits/cia1.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia2.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia3.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia4.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia5.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia6.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia7.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia8.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia9.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia10.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia11.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia12.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia13.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia14.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia15.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia16.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia17.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia18.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia19.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia20.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia21.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia22.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia23.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia24.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia25.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia26.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia27.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia28.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia29.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia30.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia31.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia32.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia33.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia34.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia35.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia36.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia37.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia38.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia39.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia40.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia41.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia42.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia43.dds" unit="GB" class="gb_cia_wpns" gender="0"/>
+
+	<!-- CIA Undercover Agent -->
+	<Portrait tex="data/textures/portraits/cia1.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia2.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia3.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia4.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia5.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia6.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia7.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia8.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia9.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia10.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia11.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia12.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia13.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia14.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia15.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia16.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia17.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia18.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia19.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia20.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia21.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia22.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia23.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia24.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia25.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia26.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia27.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia28.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia29.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia30.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia31.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia32.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia33.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia34.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia35.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia36.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia37.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia38.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia39.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia40.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia41.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia42.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+	<Portrait tex="data/textures/portraits/cia43.dds" unit="GB" class="gb_cia_covert" gender="0"/>
+
+	<!-- CTPT Team Leader -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_lead" gender="1"/>
+
+	<!-- CTPT Assaulter [A] -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_aslt1" gender="1"/>
+
+	<!-- CTPT Grenadier [A] -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_gren1" gender="1"/>
+
+	<!-- CTPT Automatic Rifleman -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_auto" gender="1"/>
+
+	<!-- CTPT Assaulter [B] -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_aslt2" gender="1"/>
+
+	<!-- CTPT Grenadier [B] -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_gren2" gender="1"/>
+
+	<!-- CTPT Designated Marksman -->
+	<Portrait tex="data/textures/portraits/nwswat1.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat2.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat3.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat4.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat5.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat6.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat7.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat8.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat9.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat11.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat12.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat13.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat14.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat15.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat16.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat17.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat18.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat19.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat21.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat22.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat23.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat24.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat25.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat26.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat27.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat28.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat29.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+	<Portrait tex="data/textures/portraits/nwswat31.dds" unit="GB" class="gb_ctpt_dm" gender="1"/>
+
+	<UnitNames unit0="GB">
+		<Gender value="0">
+			<Name n="M. HARPER"/>
+			<Name n="M. JOHNSON"/>
+			<Name n="S. WILLIAMS"/>
+			<Name n="W. BROWN"/>
+			<Name n="R. JONES"/>
+			<Name n="H. DAVIS"/>
+			<Name n="G. MARTIN"/>
+			<Name n="I. TAYLOR"/>
+			<Name n="C. ANDERSON"/>
+			<Name n="T. THOMAS"/>
+			<Name n="A. LEE"/>
+			<Name n="N. WILSON"/>
+			<Name n="J. OWENS"/>
+			<Name n="Q. PARKER"/>
+			<Name n="L. QUINN"/>
+			<Name n="M. SMITH"/>
+			<Name n="V. THOMPSON"/>
+			<Name n="B. UNDERWOOD"/>
+			<Name n="T. VAUGHN"/>
+			<Name n="O. WALKER"/>
+			<Name n="Z. YOUNG"/>
+			<Name n="I. ADAMS"/>
+			<Name n="E. BENNETT"/>
+			<Name n="H. COOPER"/>
+			<Name n="D. EDWARDS"/>
+			<Name n="S. GRIFFIN"/>
+			<Name n="A. HAYES"/>
+			<Name n="L. INGRAM"/>
+			<Name n="K. JACKSON"/>
+			<Name n="M. KENNEDY"/>
+			<Name n="R. LAWSON"/>
+			<Name n="B. MORRIS"/>
+			<Name n="C. NEWMAN"/>
+			<Name n="J. PETERSON"/>
+			<Name n="T. RICHARDSON"/>
+			<Name n="U. STEVENS"/>
+			<Name n="P. TAYLOR"/>
+			<Name n="N. WHITE"/>
+			<Name n="A. CLARK"/>
+			<Name n="B. DAVIS"/>
+			<Name n="C. JONES"/>
+			<Name n="D. SMITH"/>
+			<Name n="E. WILSON"/>
+			<Name n="F. BAKER"/>
+			<Name n="G. EVANS"/>
+			<Name n="I. FISHER"/>
+			<Name n="H. COLE"/>
+			<Name n="J. MORGAN"/>
+			<Name n="K. COOPER"/>
+			<Name n="L. HUGHES"/>
+			<Name n="M. REED"/>
+			<Name n="N. WARD"/>
+			<Name n="O. HUNTER"/>
+			<Name n="P. HARRIS"/>
+			<Name n="Q. BARNES"/>
+			<Name n="R. HILL"/>
+			<Name n="S. TURNER"/>
+			<Name n="T. SIMPSON"/>
+			<Name n="U. MURRAY"/>
+			<Name n="V. WEBB"/>
+			<Name n="W. NELSON"/>
+			<Name n="X. JORDAN"/>
+			<Name n="Y. FLETCHER"/>
+			<Name n="Z. HARRISON"/>
+			<Name n="A. HARPER"/>
+			<Name n="B. PERRY"/>
+			<Name n="C. WELLS"/>
+			<Name n="D. RYAN"/>
+			<Name n="E. FLYNN"/>
+			<Name n="F. MITCHELL"/>
+			<Name n="G. LANE"/>
+			<Name n="H. VEGA"/>
+			<Name n="I. WALLACE"/>
+			<Name n="J. COX"/>
+			<Name n="K. BOWMAN"/>
+			<Name n="L. RAMOS"/>
+			<Name n="M. REYES"/>
+			<Name n="N. BATES"/>
+			<Name n="O. VARGAS"/>
+			<Name n="P. GRIFFITH"/>
+			<Name n="Q. CASEY"/>
+			<Name n="R. GOODWIN"/>
+			<Name n="S. NUNEZ"/>
+			<Name n="T. OCHOA"/>
+			<Name n="U. DUNN"/>
+			<Name n="V. CHAVEZ"/>
+			<Name n="W. HOLT"/>
+			<Name n="X. SCHMIDT"/>
+			<Name n="Y. WATSON"/>
+			<Name n="Z. FISCHER"/>
+		</Gender>
+	
+		<Gender value="1">
+			<Name n="ALI"/>
+			<Name n="AHMED"/>
+			<Name n="HUSSEIN"/>
+			<Name n="OMAR"/>
+			<Name n="ABBAS"/>
+			<Name n="QASIM"/>
+			<Name n="JAWAD"/>
+			<Name n="SAIF"/>
+			<Name n="KAREEM"/>
+			<Name n="MUSTAFA"/>
+			<Name n="HAIDER"/>
+			<Name n="TARIQ"/>
+			<Name n="MURTADHA"/>
+			<Name n="ZIAD"/>
+			<Name n="MAYSOON"/>
+			<Name n="WALEED"/>
+			<Name n="MALIK"/>
+			<Name n="ALI"/>
+			<Name n="AHMED"/>
+			<Name n="MOHAMMED"/>
+			<Name n="ABDULLAH"/>
+			<Name n="ZIAD"/>
+			<Name n="KHALID"/>
+			<Name n="HUSSEIN"/>
+			<Name n="MAHMOUD"/>
+			<Name n="YOUSIF"/>
+			<Name n="MOHSEN"/>
+			<Name n="QASIM"/>
+			<Name n="MUSTAFA"/>
+			<Name n="KADHIM"/>
+			<Name n="SAJAD"/>
+			<Name n="QUSAY"/>
+			<Name n="MAJID"/>
+			<Name n="JAWAD"/>
+			<Name n="AMMAR"/>
+			<Name n="SALEH"/>
+			<Name n="RAAD"/>
+			<Name n="ZAID"/>
+			<Name n="HAYDER"/>
+			<Name n="HAIDAR"/>
+			<Name n="RASHID"/>
+			<Name n="TAHA"/>
+			<Name n="MUNAF"/>
+			<Name n="ALI"/>
+			<Name n="ABDUL"/>
+			<Name n="SAMI"/>
+			<Name n="BILAL"/>
+			<Name n="FAISAL"/>
+			<Name n="MAZIN"/>
+			<Name n="LAYTH"/>
+			<Name n="ZIYAD"/>
+			<Name n="NASIR"/>
+			<Name n="WAHID"/>
+			<Name n="RIYAD"/>
+			<Name n="FADI"/>
+			<Name n="ABDUL"/>
+			<Name n="AMEER"/>
+			<Name n="ALI"/>
+			<Name n="HUSAM"/>
+			<Name n="AHMAD"/>
+			<Name n="SAMEER"/>
+			<Name n="WALID"/>
+			<Name n="RAFI"/>
+			<Name n="ALI"/>
+			<Name n="AHMED"/>
+			<Name n="HUSSEIN"/>
+			<Name n="OMAR"/>
+			<Name n="ABBAS"/>
+			<Name n="QASIM"/>
+			<Name n="JAWAD"/>
+			<Name n="SAIF"/>
+			<Name n="KAREEM"/>
+			<Name n="MUSTAFA"/>
+			<Name n="HAIDER"/>
+			<Name n="TARIQ"/>
+			<Name n="MURTADHA"/>
+			<Name n="ZIAD"/>
+			<Name n="MAYSOON"/>
+			<Name n="WALEED"/>
+			<Name n="MALIK"/>
+		</Gender>
+	</UnitNames>
+</HumanIdentities>

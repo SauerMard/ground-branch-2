@@ -1,0 +1,143 @@
+<GUIItems>
+	<EventActionBatch name="GAME_GUI_LOADTIME_ACTIONS">
+		<Action type="Show" target="GB"/>
+	</EventActionBatch>
+
+	<Item name="GB" origin="0 -166" hidden="true" align="rt" sizeX="380">
+		<OnOpen>
+			<Action type="AddMeToParent" target="#unit_header"/>
+		</OnOpen>
+
+		<!-- CIA SAC/SOG -->
+		<StaticImage name="gb_cia_lead" origin="-0 -101">
+			<RenderObject2D texture="data/textures/gui/square.tga" sizeX="380" sizeY="184" color="211e1dcc"/>
+
+			<StaticImage name="#ClassHeader" origin="0 0" align="t">
+				<!-- color will be changed with the one set in unit.xml -->
+				<RenderObject2D texture="data/textures/gui/square.tga" sizeX="380" sizeY="46" color="df9d26"/>
+			</StaticImage>
+
+			<StaticImage origin="0 0" align="lt">
+				<RenderObject2D texture="data/textures/gui/deploy/deploy_class_diagonalbars.dds" color="0c0b0b33"/>
+			</StaticImage>
+
+			<StaticImage origin="-16 0" align="lt">
+				<RenderObject2D texture="data/textures/gui/square.tga" sizeX="8" sizeY="184.5" color="f97b0380"/>
+			</StaticImage>
+
+			<StaticText name="" origin="-6 68" text="CIA SAC/SOG" align="r" font="header_4" textColor="211e1d"/>
+
+			<StaticImage name="SquadIcon" origin="8 68" align="l">
+				<RenderObject2D texture="data/textures/gui/deploy/cia_team_1.dds"/>
+			</StaticImage>	
+
+			<Item origin="-138 17">
+				<StaticImage name="#slot0" origin="0 -35.3">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_a_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_cia_breach" origin="0 -190.625">
+			<Item origin="-138 72">
+				<StaticImage name="#slot1" origin="90 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_gren_a_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_cia_wpns" origin="0 -190.625">
+			<Item origin="-138 72">	
+				<StaticImage name="#slot2" origin="180 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_gun_a_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_cia_covert" origin="0 -190.625">
+			<Item origin="-138 72">	
+				<StaticImage name="#slot3" origin="270 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_mark_a_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<!-- Nowheraki CTPT -->
+		<StaticImage name="gb_ctpt_lead" origin="0 -348">
+			<RenderObject2D texture="data/textures/gui/square.tga" sizeX="380" sizeY="280" color="211e1dcc"/>
+
+			<StaticImage name="#ClassHeader" origin="-0 0" align="t">
+				<!-- color will be changed with the one set in unit.xml -->
+				<RenderObject2D texture="data/textures/gui/square.tga" sizeX="380" sizeY="46" color="cb893e"/>
+			</StaticImage>
+
+			<StaticImage origin="-0 0" align="lt">
+				<RenderObject2D texture="data/textures/gui/deploy/deploy_class_diagonalbars.dds" color="0c0b0b33"/>
+			</StaticImage>
+
+			<StaticImage origin="-16 0" align="lt">
+				<RenderObject2D texture="data/textures/gui/square.tga" sizeX="8" sizeY="280" color="f97b0380"/>
+			</StaticImage>
+
+			<StaticText name="" origin="-6 116" text="NOWHERAKI CTPT" align="r" font="header_4" textColor="211e1d"/>
+
+			<StaticImage name="SquadIcon" origin="8 116" align="l">
+				<RenderObject2D texture="data/textures/gui/deploy/cia_team_2.dds"/>
+			</StaticImage>	
+
+			<Item origin="-138 17">
+				<StaticImage name="#slot4" origin="0 -35">
+					<RenderObject2D texture="data/textures/gui/deploy/ctpt_deploy.png"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_ctpt_aslt1" origin="0 -380">
+			<Item origin="-138 66">
+				<StaticImage name="#slot5" origin="90 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_b_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_ctpt_gren1" origin="0 -380">
+			<Item origin="-138 66">
+				<StaticImage name="#slot6" origin="180 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_b_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_ctpt_auto" origin="0 -380">
+			<Item origin="-138 66">
+				<StaticImage name="#slot7" origin="270 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_b_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_ctpt_aslt2" origin="0 -380">
+			<Item origin="-138 -33">
+				<StaticImage name="#slot5" origin="90 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_b_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_ctpt_gren2" origin="0 -380">
+			<Item origin="-138 -33">
+				<StaticImage name="#slot6" origin="180 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_b_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+
+		<StaticImage name="gb_ctpt_dm" origin="0 -380">
+			<Item origin="-138 -33">	
+				<StaticImage name="#slot7" origin="270 0">
+					<RenderObject2D texture="data/textures/gui/deploy/cia_lead_b_deploy.dds"/>
+				</StaticImage>
+			</Item>
+		</StaticImage>
+	</Item>
+</GUIItems>

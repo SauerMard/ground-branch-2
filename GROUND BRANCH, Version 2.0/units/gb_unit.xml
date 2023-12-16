@@ -1,0 +1,57 @@
+<Units>
+	<Unit
+	name="GB"
+	nameUI="@gb_unit_name"
+	description="@gb_unit_desc"
+	flagTex="data/textures/gb_unit_bg.dds"
+	flagColor="f0f0f0"
+	rndNameEntry="@#gb_squadname">
+
+		<Classes>
+			<Class name="gb_cia_lead"	nameUI="@gb_cia_lead_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_blackops.dds"/>
+			<Class name="gb_cia_breach"	nameUI="@gb_cia_breach_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_nowheraki_sapper.dds"/>
+			<Class name="gb_cia_wpns"	nameUI="@gb_cia_wpns_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_support.dds"/>
+			<Class name="gb_cia_covert"	nameUI="@gb_cia_covert_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_undercover.dds"/>
+
+			<Class name="gb_ctpt_lead"	nameUI="@gb_ctpt_lead_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_nowheraki_leader.dds"/>
+			<Class name="gb_ctpt_aslt1"	nameUI="@gb_ctpt_aslt_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_nowheraki_assaulter.dds"/>
+			<Class name="gb_ctpt_gren1"	nameUI="@gb_ctpt_gren_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_grenadier.dds"/>
+			<Class name="gb_ctpt_auto"	nameUI="@gb_ctpt_auto_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_support.dds"/>
+			<Class name="gb_ctpt_aslt2"	nameUI="@gb_ctpt_aslt_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_nowheraki_assaulter.dds"/>
+			<Class name="gb_ctpt_gren2"	nameUI="@gb_ctpt_gren_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_grenadier.dds"/>
+			<Class name="gb_ctpt_dm"	nameUI="@gb_ctpt_dm_name"	numSlots="1" supply="100" iconTex="data/textures/gui/deploy/class_icon_marksman.dds"/>
+		</Classes>
+
+		<TrooperRanks>
+			<Rank name="@gb_rank_0_name" xpNeeded="0"         badgeTex="data/textures/gui/customization/cia_rank_01.dds"/>
+			<Rank name="@gb_rank_1_name" xpNeeded="700"       badgeTex="data/textures/gui/customization/cia_rank_02.dds"/>
+			<Rank name="@gb_rank_2_name" xpNeeded="2300"      badgeTex="data/textures/gui/customization/cia_rank_03.dds"/>
+			<Rank name="@gb_rank_3_name" xpNeeded="5600"      badgeTex="data/textures/gui/customization/cia_rank_04.dds"/>
+			<Rank name="@gb_rank_4_name" xpNeeded="11800"     badgeTex="data/textures/gui/customization/cia_rank_05.dds"/>
+			<Rank name="@gb_rank_5_name" xpNeeded="22400"     badgeTex="data/textures/gui/customization/cia_rank_06.dds"/>
+			<Rank name="@gb_rank_6_name" xpNeeded="38400"     badgeTex="data/textures/gui/customization/cia_rank_07.dds"/>
+			<Rank name="@gb_rank_7_name" xpNeeded="60200"     badgeTex="data/textures/gui/customization/cia_rank_08.dds"/>
+			<Rank name="@gb_rank_8_name" xpNeeded="86400"     badgeTex="data/textures/gui/customization/cia_rank_09.dds"/>
+			<Rank name="@gb_rank_9_name" xpNeeded="126400"    badgeTex="data/textures/gui/customization/cia_rank_10.dds"/>
+		</TrooperRanks>
+
+		<Ranks>
+			<Rank xpNeeded="0"      badgeTex=""/>
+			<Rank xpNeeded="4000"   badgeTex=""/>
+			<Rank xpNeeded="9000"   badgeTex=""/>
+			<Rank xpNeeded="14980"  badgeTex=""/>
+			<Rank xpNeeded="21920"  badgeTex=""/>
+			<Rank xpNeeded="29800"  badgeTex=""/>
+			<Rank xpNeeded="38600"  badgeTex=""/>
+			<Rank xpNeeded="48310"  badgeTex=""/>
+			<Rank xpNeeded="58900"  badgeTex=""/>
+			<Rank xpNeeded="70360"  badgeTex=""/>
+			<Rank xpNeeded="82680"  badgeTex=""/>
+			<Rank xpNeeded="95820"  badgeTex=""/>
+			<Rank xpNeeded="109790" badgeTex=""/>
+			<Rank xpNeeded="124550" badgeTex=""/>
+			<Rank xpNeeded="140100" badgeTex=""/>
+			<Rank xpNeeded="156420" badgeTex=""/>
+		</Ranks>
+	</Unit>
+</Units>

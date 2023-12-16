@@ -1,0 +1,281 @@
+<Entities>
+	<!-- CIA SAC/SOG -->
+	<!-- Team Leader -->
+	<Entity name="gb_cia_lead_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_cia_lead">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Breacher -->
+	<Entity name="gb_cia_breach_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_cia_breach">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Weapons Specialist -->
+	<Entity name="gb_cia_wpns_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_cia_wpns">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Undercover Agent -->
+	<Entity name="gb_cia_covert_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_cia_covert">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+
+
+	<!-- Nowheraki CTPT -->
+
+	<!-- Team Leader -->
+	<Entity name="gb_ctpt_lead_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_lead">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Assaulter [A] -->
+	<Entity name="gb_ctpt_aslt1_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_aslt1">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Grenadier [A] -->
+	<Entity name="gb_ctpt_gren1_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_gren1">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Automatic Rifleman -->
+	<Entity name="gb_ctpt_auto_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_auto">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Assaulter [B] -->
+	<Entity name="gb_ctpt_aslt2_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_aslt2">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Grenadier [B] -->
+	<Entity name="gb_ctpt_gren2_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_gren2">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<!-- Designated Marksman -->
+	<Entity name="gb_ctpt_dm_human" type="Human" editorAutoHeight="false">
+		<RenderObject3D model="data/models/humans/gb_cubebody.khm" diffuseTex=""/>
+		<Breakable template="GenericTrooperGibs" breakOnDamage="explosive" deleteOnDeath="false"/>
+		<PhysicalParams health="100"/>
+
+		<Human type="GoodGuy"
+		unit="GB"
+		class="gb_ctpt_dm">
+
+			<Id name="" portrait="" gender="0"/>
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.75"/>
+			<Brain suppressionRecovery="45.0"/>
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.4" max="10"/>
+				<TurnSpeed min="6" defaultMetersPerSec="16" max="20"/>
+			</Mobility>
+
+			<Equipment>
+				<Item name="something here"/>
+			</Equipment>
+		</Human>
+	</Entity>
+</Entities>
